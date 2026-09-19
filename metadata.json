@@ -1,0 +1,33 @@
+{
+  "name": "BitLab Coin",
+  "symbol": "BitLab",
+  "description": "BitGuard Security Spectrum: A platform designed for Crypto projects, web3 developers, Cybersecurity, and blockchain enthusiasts in general. Our ecosystem includes Token & Liquidity Locker, Professional Smart Contract Audit, Cybersecurity Services, Web3 API services for developers which can be used by listing platforms, scanners, and crypto aggregators; and more to come. We also provide a Free Token Security Scanner that detects malicious crypto tokens. BitLab Coin is the Utility Token of BitGuard Security Spectrum.\n\nThe non-custodial BitGuard Locker supports token, vesting, and liquidity locking across EVM networks and Solana, with public on-chain verification, permanent lock pages, flexible vesting models, forward-only unlock extensions, and so on. The platform supports token and liquidity locking across networks such as Solana, BNB Chain, Ethereum, Arbitrum, Polygon, Cronos, Base, Robinhood Chain, etc.\n\nFor projects seeking independent security validation, BitGuard Smart Contract Audit PRO combines manual and automated security review of smart-contract logic, source-code vulnerabilities, token mechanics and permissions, upgradeability, external dependencies, ownership/administrative controls, and common blockchain exploit vectors. Audits are designed for crypto tokens, wallet-related contracts, Token/LP Lockers, MEV contracts, automated trading bots, DeFi protocols, staking systems, launchpads, DAOs, and other blockchain-related smart contracts; with checks covering logic and business-logic flaws, arithmetic issues, token manipulation, flash-loan and oracle risks, authentication/signature weaknesses, proxy and upgradeability risks, unsafe external calls, denial-of-service conditions, and economic or tokenomic attack vectors. BitGuard's locker smart-contract implementations are publicly documented through its \"Smart-contract audit results,\" providing additional visibility into the infrastructure behind the locking platform.\n\nThe API provides machine-readable token, audit, locker, liquidity-lock, verification, and security-score data, allowing third-party platforms to integrate BitGuard security and lock information directly into their own applications. At the same time, anyone can use the Free BitGuard Token Security Scanner to evaluate a token address for potential risks and scam indicators, including mint and freeze authorities, buy/sell restrictions, honeypot-related behavior, contract permissions, holder concentration, liquidity conditions, token metadata, and available contract code. Together, these services position BitGuard as a security-focused infrastructure platform for organizations seeking to improve security, transparency, investor confidence, and verifiable on-chain trust.",
+  "image": "https://cdn.jsdelivr.net/gh/bitguard-ss/bitlab-coin@main/bitlab-logo.png",
+  "external_url": "https://bgsspectrum.com",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Standard", "value": "SPL Token" },
+    { "trait_type": "Mint Authority", "value": "Revoked" },
+    { "trait_type": "Freeze Authority", "value": "Revoked" },
+    { "trait_type": "Metadata", "value": "Immutable" },
+    { "trait_type": "Utility", "value": "BitGuard Security Spectrum" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.jsdelivr.net/gh/bitguard-ss/bitlab-coin@main/bitlab-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "extensions": {
+    "website": "https://bgsspectrum.com",
+    "twitter": "https://x.com/bitguard_xlab",
+    "facebook": "https://www.facebook.com/people/BitGuard-Security-Spectrum/61575016988558",
+    "linkedin": "https://www.linkedin.com/company/binary-business-spectrum-bb-spectrum/",
+    "locker": "https://locker.bbspectrum.com",
+    "audit": "https://audit.bbspectrum.com"
+  }
+}
