@@ -1,9 +1,9 @@
 {
-  "name": "BitLab Coin",
-  "symbol": "BITLAB",
-  "description": "BitLab Blockchain Security Spectrum: The Security Layer of the blockchain & the web! Token Locker . Liquidity Locker . Advanced Smart Contract Audit . Token Security scanner . Cybersecurity . Blockchain Dev & Security . Web3 Application Security & Development. Secure API Access . More....",
+  "name": "xLab Coin",
+  "symbol": "xLAB",
+  "description": "Token Locker . Liquidity Locker . Advanced Smart Contract Audit . Token Security scanner . Cybersecurity . Blockchain Dev & Security . Web3 Application Security & Development. Secure API Access . More....",
   "image": "https://cdn.jsdelivr.net/gh/bitguard-ss/bitlab-coin-metadata@main/bitlab-logo.png",
-  "external_url": "https://bbspectrum.com",
+  "external_url": "https://bgspectrum.com",
   "seller_fee_basis_points": 0,
   "attributes": [
     { "trait_type": "Standard", "value": "SPL Token" },
@@ -23,9 +23,6 @@
     "creators": []
   },
   "extensions": {
-    "website": "https://bbspectrum.com",
-    "twitter": "https://x.com/bitlab_ss",
-    "locker": "https://locker.bbspectrum.com",
-    "audit": "https://audit.bbspectrum.com"
+    "website": "https://bgspectrum.com"
   }
 }
