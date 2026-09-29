@@ -2,7 +2,7 @@
   "name": "xCoin",
   "symbol": "xCoin",
   "description": "",
-  "image": "https://cdn.jsdelivr.net/gh/bitguard-ss/bitlab-coin-metadata@main/bitlab-logo.png",
+  "image": "https://cdn.jsdelivr.net/gh/bitguard-ss/bitlab-coin1-metadata@main/bitlab-log.png",
   "external_url": "https://bgs.com",
   "seller_fee_basis_points": 0,
   "attributes": [
@@ -15,7 +15,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://cdn.jsdelivr.net/gh/bitguard-ss/bitlab-coin-metadata@main/bitlab-logo.png",
+        "uri": "https://cdn.jsdelivr.net/gh/bitguard-ss/bitlab-coin1-metadata@main/bitlab-log.png",
         "type": "image/png"
       }
     ],
