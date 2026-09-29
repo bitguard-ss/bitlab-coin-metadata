@@ -1,9 +1,9 @@
 {
-  "name": "xLab Coin",
-  "symbol": "xLAB",
-  "description": "Token Locker . Liquidity Locker . Advanced Smart Contract Audit . Token Security scanner . Cybersecurity . Blockchain Dev & Security . Web3 Application Security & Development. Secure API Access . More....",
+  "name": "xCoin",
+  "symbol": "xCoin",
+  "description": "",
   "image": "https://cdn.jsdelivr.net/gh/bitguard-ss/bitlab-coin-metadata@main/bitlab-logo.png",
-  "external_url": "https://bgspectrum.com",
+  "external_url": "https://bgs.com",
   "seller_fee_basis_points": 0,
   "attributes": [
     { "trait_type": "Standard", "value": "SPL Token" },
@@ -23,6 +23,6 @@
     "creators": []
   },
   "extensions": {
-    "website": "https://bgspectrum.com"
+    "website": "https://bgs.com"
   }
 }
